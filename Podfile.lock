@@ -1,0 +1,15 @@
+PODS:
+  - paper-onboarding (2.1.0)
+  - SwiftForms (1.7)
+
+DEPENDENCIES:
+  - paper-onboarding
+  - SwiftForms
+
+SPEC CHECKSUMS:
+  paper-onboarding: b694e7c8d74b48309cc7485143386857be24897a
+  SwiftForms: 3f3dbaa79fe54eb1ccd0aca8d0cd1e38eb00537e
+
+PODFILE CHECKSUM: 1283b35df05f0481f5e6a73121750e24a53c561c
+
+COCOAPODS: 1.2.1
